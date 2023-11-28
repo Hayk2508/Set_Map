@@ -1,7 +1,7 @@
 #include <iostream>
 #include <map>
 #include <string>
-
+//dqdq
 int main() {
     std::string s;
     std::cin >> s;
